@@ -1,0 +1,2 @@
+It was the best of times,it was the worst of time. 
+This is the text written in first branch and later merged to the main branch.
