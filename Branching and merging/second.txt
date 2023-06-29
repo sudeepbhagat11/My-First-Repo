@@ -1,0 +1,2 @@
+Its raining today.
+This is the text written in first branch and later merged to the main branch.
